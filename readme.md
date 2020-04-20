@@ -6,7 +6,7 @@ This is basically our curated list of awesome php libs for what we consider awes
   * Must do just one thing and do it right instead of many
   * At least php 7.1 or a fork of someone else that is 7.1 ready
   * Must have tests
-  * PSR2 or PSR2 is prefered
+  * PSR2 and PSR12 is prefered
   * We prefer libs that follow PSR standards
 
 ## Libraries
