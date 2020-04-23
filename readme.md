@@ -23,4 +23,5 @@ This is basically our curated list of awesome php libs for what we consider awes
   * [phpcs / phpcbf](https://github.com/squizlabs/PHP_CodeSniffer) - Code Sniffer and Auto-Fixer
   * [grumphp](https://github.com/phpro/grumphp) - Pre-Commit Checks using different tools
   * [phpstan](https://github.com/phpstan/phpstan) - Static Analyzer
-  * [phive](https://github.com/phar-io/phive) - The Phar Installation and Verification Environment (PHIVE) 
+  * [phive](https://github.com/phar-io/phive) - The Phar Installation and Verification Environment (PHIVE)
+  * [gh-ci](https://cli.github.com/) Github for the CLI
