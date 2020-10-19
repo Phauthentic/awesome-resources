@@ -25,3 +25,4 @@ This is basically our curated list of awesome php libs for what we consider awes
   * [phpstan](https://github.com/phpstan/phpstan) - Static Analyzer
   * [phive](https://github.com/phar-io/phive) - The Phar Installation and Verification Environment (PHIVE)
   * [gh-ci](https://cli.github.com/) Github for the CLI
+  * [kint](https://github.com/kint-php/kint) - Debuggin Utility with zero dependenices
