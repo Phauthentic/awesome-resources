@@ -11,11 +11,12 @@ This is basically our curated list of awesome php libs for what we consider awes
 
 ## Libraries
 
-  * [JSON API](https://github.com/json-api-php/json-api)
   * [Prooph Event Store](https://github.com/prooph/event-store)
   * [Nyholm PSR7 Server](https://github.com/Nyholm/psr7-server)
-  * [Ramsey UUID](https://github.com/ramsey/uuid)
-  * [Beberlei Assert](https://github.com/beberlei/assert)
+  * [Ramsey UUID](https://github.com/ramsey/uuid) - UUID Library
+  * [Beberlei Assert](https://github.com/beberlei/assert) - Assertion Library
+  * [Webmozar Assert](https://github.com/webmozarts/assert)- Assertion Library
+  * [JSON API](https://github.com/json-api-php/json-api)
 
 ## Dev Tools
 
@@ -26,3 +27,10 @@ This is basically our curated list of awesome php libs for what we consider awes
   * [phive](https://github.com/phar-io/phive) - The Phar Installation and Verification Environment (PHIVE)
   * [gh-ci](https://cli.github.com/) Github for the CLI
   * [kint](https://github.com/kint-php/kint) - Debuggin Utility with zero dependenices
+
+## Frameworks
+
+The framework listed here are explicitly not the well known big ones.
+
+  * [Spiral](https://spiral.dev/) - Elegant high-performance framework + Roadrunner
+  * [Hyperf](https://github.com/hyperf/hyperf) - Co-routine based framwork (requires Swoole) that also features AOP (optionally)
