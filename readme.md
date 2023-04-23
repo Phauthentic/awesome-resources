@@ -58,6 +58,11 @@ This is basically our curated list of awesome php libs for what we consider awes
   * [The clean code blog by Robert C. Martin](https://blog.cleancoder.com/)
   * [Refactoring Guru](https://refactoring.guru/) - A nice list of patterns and refactoring techniques.
 
+### News
+
+  * [Reddits PHP Section](https://www.reddit.com/r/PHP/) - Reddits PHP section.
+  * [Dzone](https://dzone.com/)
+
 ## Frameworks
 
 The framework listed here are explicitly not the well known big ones.
