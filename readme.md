@@ -22,6 +22,7 @@ This is basically our curated list of awesome php libs for what we consider awes
   * [Webmozar Assert](https://github.com/webmozarts/assert) - Assertion Library
   * [JSON API](https://github.com/json-api-php/json-api)
   * [Automapper](https://github.com/janephp/automapper) - PHP version of the c# Automapper library, an object mapper.
+  * [AutoShell](https://github.com/pmjones/AutoShell) - A shell without further dependencies. I/O not included (use something like CLImate).
 
 ## Dev Tools
 
@@ -30,7 +31,7 @@ This is basically our curated list of awesome php libs for what we consider awes
   * [grumphp](https://github.com/phpro/grumphp) - Pre-Commit Checks using different tools
   * [phpstan](https://github.com/phpstan/phpstan) - Static Analyzer
   * [phive](https://github.com/phar-io/phive) - The Phar Installation and Verification Environment (PHIVE)
-  * [gh-ci](https://cli.github.com/) Github for the CLI
+  * [gh-ci](https://cli.github.com/) - Github for the CLI
   * [kint](https://github.com/kint-php/kint) - Debuggin Utility with zero dependenices
 
 ## Youtube
