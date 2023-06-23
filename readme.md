@@ -11,7 +11,7 @@ This is basically our curated list of awesome php libs for what we consider awes
   * At least PHP 7.1 or a fork of someone else that is 7.1 ready.
   * Must have tests.
   * PSR2 and PSR12 is prefered.
-  * We prefer libs that follow PSR standards.
+  * We prefer libraries that follow PSR standards.
 
 ### Libraries
 
@@ -48,6 +48,8 @@ This is basically our curated list of awesome php libs for what we consider awes
   * [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.de/-/en/Evans-Eric-ebook/dp/B00794TAUG) by Eric Evans.
   * [Implementing Domain-Driven Design](https://www.amazon.de/dp/B00BCLEBN8) by Vernon Vaughn.
   * [Patterns of Enterprise Application Architecture](https://www.amazon.de/dp/B008OHVDFM) by Martin Fowler.
+  * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.de/-/en/Robert-Martin/dp/0132350882) by Robert Martin
+  * [Mastering Non-Functional Requirements: Templates and tactics for analysis, architecture and assessment](https://www.amazon.de/-/en/Sameer-Paradkar/dp/178829923X) by Sameer Paradkar 
 
 ### Leadership
 
@@ -74,4 +76,4 @@ The framework listed here are explicitly not the well known big ones.
 ## Alternative PHP Servers
 
   * [FrankenPHP](https://frankenphp.dev/) - A PHP server written in GO.
-  * [Roadrunner](https://github.com/roadrunner-server/roadrunner)
+  * [Roadrunner](https://github.com/roadrunner-server/roadrunner) - A PHP Server written in Go.
