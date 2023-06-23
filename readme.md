@@ -60,6 +60,7 @@ This is basically our curated list of awesome php libs for what we consider awes
 
   * [The clean code blog by Robert C. Martin](https://blog.cleancoder.com/)
   * [Refactoring Guru](https://refactoring.guru/) - A nice list of patterns and refactoring techniques.
+  * [Microservice Architecture - by Chris Richardson](https://microservices.io/) - Everything about Microservices & Distributed Systems
 
 ### News
 
