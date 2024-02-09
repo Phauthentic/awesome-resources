@@ -38,6 +38,7 @@ This is basically our curated list of awesome php libs for what we consider awes
 
   * [KanDDDisnky Conference Talks](https://www.youtube.com/@KanDDDinsky)
   * [NDC Conference Talks](https://www.youtube.com/@ndc)
+  * [DDD Europe Conference Talks](https://www.youtube.com/@ddd_eu)
   * [Code Opinion - Software Architecture](https://www.youtube.com/@CodeOpinion)
   * [MilanJovanovicTech - Architecture Basics & c#](https://www.youtube.com/@MilanJovanovicTech)
 
@@ -49,7 +50,9 @@ This is basically our curated list of awesome php libs for what we consider awes
   * [Implementing Domain-Driven Design](https://www.amazon.de/dp/B00BCLEBN8) by Vernon Vaughn.
   * [Patterns of Enterprise Application Architecture](https://www.amazon.de/dp/B008OHVDFM) by Martin Fowler.
   * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.de/-/en/Robert-Martin/dp/0132350882) by Robert Martin
-  * [Mastering Non-Functional Requirements: Templates and tactics for analysis, architecture and assessment](https://www.amazon.de/-/en/Sameer-Paradkar/dp/178829923X) by Sameer Paradkar 
+  * [Mastering Non-Functional Requirements: Templates and tactics for analysis, architecture and assessment](https://www.amazon.de/-/en/Sameer-Paradkar/dp/178829923X) by Sameer Paradkar.
+  * [Design Patterns. Elements of Reusable Object-Oriented Software](https://www.amazon.de/-/en/Erich-Gamma/dp/0201633612) by Erich Gamma, Richard Helm, Ralph E. Johnson, John Vlissides.
+  * [Team Topologies](https://www.amazon.de/-/en/Team-Topologies-Organizing-Business-Technology/dp/1942788819) by Matthew Skelton & Manuel Pais.
 
 ### Leadership
 
