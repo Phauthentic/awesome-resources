@@ -2,16 +2,14 @@
 
 ## Libraries
 
-### Requirements
+### The Criteria for selecting a Library
 
-This is basically our curated list of awesome php libs for what we consider awesome.
-
-  * No dependencies at all if possible, the fewer the better.
-  * Must do just one thing and do it right instead of many.
-  * At least PHP 7.1 or a fork of someone else that is 7.1 ready.
-  * Must have tests.
-  * PSR2 and PSR12 is prefered.
-  * We prefer libraries that follow PSR standards.
+  * **SHOULD NOT** have additional dependencies, the fewer the better.
+  * **MUST** do just one thing and do it right instead of many (SRP).
+  * **SHOULD** support the most recent PHP version.
+  * **MUST** have tests.
+  * **SHOULD** follow PSR2 and PSR12.
+  * **SHOULD** follow PSR in general.
 
 ### Libraries
 
