@@ -36,10 +36,14 @@ This is basically our curated list of awesome php libs for what we consider awes
 
 ## Youtube
 
+### Conference Talks
   * [KanDDDisnky Conference Talks](https://www.youtube.com/@KanDDDinsky)
   * [NDC Conference Talks](https://www.youtube.com/@ndc)
   * [DDD Europe Conference Talks](https://www.youtube.com/@ddd_eu)
-  * [Code Opinion - Software Architecture](https://www.youtube.com/@CodeOpinion)
+
+### People
+  * [Code Opinion - Software Architecture](https://www.youtube.com/@CodeOpinion) by [Derek Comartin](https://codeopinion.com/)
+  * [Continious Delivery](https://www.youtube.com/@ContinuousDelivery) by [Dave Farley](https://www.davefarley.net/)
   * [MilanJovanovicTech - Architecture Basics & c#](https://www.youtube.com/@MilanJovanovicTech)
 
 ## Books
