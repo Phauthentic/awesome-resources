@@ -1,4 +1,4 @@
-# Awesome PHP & Software Architecture Links
+# Awesome Development & Software Architecture Links
 
 ## Libraries
 
@@ -66,10 +66,13 @@
   * [The clean code blog by Robert C. Martin](https://blog.cleancoder.com/)
   * [Refactoring Guru](https://refactoring.guru/) - A nice list of patterns and refactoring techniques.
   * [Microservice Architecture - by Chris Richardson](https://microservices.io/) - Everything about Microservices & Distributed Systems
+  * [Eventmodeling.org](https://eventmodeling.org/) - Event Modeling is a method of describing systems using an example of how information has changed within them over time.
+  * [Connascence.io](https://connascence.io/strength.html) - Connascence is a software quality metric & a taxonomy for different types of coupling.
 
 ### News
 
   * [Reddits PHP Section](https://www.reddit.com/r/PHP/) - Reddits PHP section.
+  * [InfoQ](https://www.infoq.com/)
   * [Dzone](https://dzone.com/)
 
 ## Frameworks
@@ -83,6 +86,11 @@ The framework listed here are explicitly not the well known big ones.
 
   * [FrankenPHP](https://frankenphp.dev/) - A PHP server written in GO.
   * [Roadrunner](https://github.com/roadrunner-server/roadrunner) - A PHP Server written in Go.
+
+## Companies practicing and promoting DDD & good software architecture
+
+  * https://maibornwolff.de/
+  * https://innoq.com/
 
 ## Misc
 
