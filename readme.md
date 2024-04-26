@@ -25,7 +25,8 @@
 ## Dev Tools
 
   * [phpunit](https://github.com/sebastianbergmann/phpunit) - Unit testing
-  * [phpcs / phpcbf](https://github.com/squizlabs/PHP_CodeSniffer) - Code Sniffer and Auto-Fixer
+  * [Infection](https://infection.github.io/) - PHP Mutation Testing Framework
+  * [phpcs / phpcbf](https://github.com/squizlabs/PHP_CodeSniffer) - Code Sniffer and Auto-Fixe
   * [grumphp](https://github.com/phpro/grumphp) - Pre-Commit Checks using different tools
   * [phpstan](https://github.com/phpstan/phpstan) - Static Analyzer
   * [phive](https://github.com/phar-io/phive) - The Phar Installation and Verification Environment (PHIVE)
